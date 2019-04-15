@@ -1,0 +1,54 @@
+points
+---
+p1:
+confused about search icon
+
+badges
+---
+p1:
+A bit confused that badges could be clicked on
+Once they got familiar with the process they went through it quick
+Navigated back to the badges quickly and redeemed the awards.
+
+q1: Likes the badges more than points, badges are a bit more clear and fun.
+q2: Badges are self explanitory
+q3: 100% feels like badges would increase event attendance and interaction (from an actually executive president of ICCIT COUNCIL)
+
+
+badges
+----
+p2:
+bottom bar is not home button not intuitive
+suggest that event page should redirect to search results (not the homepage)
+students are probably still busy, the incentive (maybe lower the badge reward count)
+
+badges
+----
+p3:
+when checking rewards doesnt look clickable
+- add redeem to the actual voucher
+"save" should be search
+
+wouldn't mind using app to see whats going on. gameification makes the event finding process more enjoyable. Concerned about organizers not having enough
+
+badges
+----
+p4: 
+kinda confused where to find ICCIT events
+used the actual ICCITcouncil tag to search for
+bar to shown as progress and when it reaches it should be clickable (button appears ,green)
+
+
+
+
+
+points
+---
+p2:
+Navigated to profile without an issue from the home screen.
+Had issues finding the searching or filter function/icon on the screen.
+
+q1: Thinks its pretty good, having a tangible reward system for events would be more incentive. 
+q2: Seeing the reward previews and having tangible rewards would be good.
+q3: Thinks that it would overall be beneficial, especiially if sponsors or outsources are engaged with the app. Having rewards for "checkpoints/milestones" would be interesting.
+ 

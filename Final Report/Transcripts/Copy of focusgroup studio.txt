@@ -1,0 +1,43 @@
+p1/ p2 are the notes
+
+t1 - relatively fast - used homepage not search 
+t2 - sidemenu bar - to map button - map - to studentcenter pin to 
+t3 - did the same thing to go to the event as above. Did not know how to upload. There is no upload icon. 
+
+what does badge mean to you?
+- if there is no incentive, there is less motivation to join. Point system is nice to get. Maybe attending the same event by the host you accumulate points and can exchange for it. 
+if you get 10 badges - you get like a certificate by the end of the year. Reward base is heavy (maybe you get CCR when attending events - some sort of collaboration) 
+
+p3/ p4 are the notes
+
+t1 - via home page
+p1 - wasnt clear on the inital event on homepage
+
+t2 - pressed filter first - unsure of map icon (maybe too small), clicked student center blip, found league - able to join
+t3 - went ot profile, clicked "favourite events" - went through map view to get back to the league event. Tried multiple times to press the league event in the favourite tab in profile. 
+
+what does badge mean to you?
+- Doesnt really understand what the badge does. (Maybe doesnt understand the displaying function)
+- maybe getting a threshhold for obtaining badges say like 5 and you get something
+
+comments
+- Add more features than what facebook already offers
+- Does prefer the map view than the "discover" tab
+
+p4/p5 are the notes 
+
+t1 - through categories to study group and joined (pretty quickly)
+t2 - pressed bottom right icon for the map - clicked student center (colorbind so he has a hard time finding the pins) - 
+t3 - hamburger menu to profile - clicked crown - "viewed" badge
+
+p5 - add grey background layout for card to read title better
+
+what does badge mean to you?
+
+
+comments 
+- does like tags for the actual event
+- toast notifcation different color
+- what would heart do, unsure (if it would go to favourites in the profile tab)
+- add tip to label badges to make it more clear
+- maybe tab for past events (map doesnt have to much utility)
